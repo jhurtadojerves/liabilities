@@ -1,0 +1,8 @@
+.env
+.idea
+.DS_Store
+__pycache__/
+venv
+api/meilisearch
+api/data.ms/*
+.volumes

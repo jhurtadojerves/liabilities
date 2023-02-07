@@ -1,0 +1,7 @@
+Django==4.1.6
+djangorestframework==3.14.0
+psycopg2==2.9.5
+environs==9.5.0
+markdown==3.4.1
+django-filter==22.1
+djangorestframework-simplejwt==5.2.2
